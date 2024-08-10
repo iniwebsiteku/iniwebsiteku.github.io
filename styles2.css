@@ -1,0 +1,11 @@
+body {
+    font-size: 3rem;
+    font-family: "Poppins", sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    align-items: center;
+    background: linear-gradient(to right, #071f95, #e63232);
+    color: rgb(0, 0, 0);
+     }
