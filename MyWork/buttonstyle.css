@@ -19,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin: 0;
+  margin: 20;
 }
 
 button {
@@ -65,7 +65,7 @@ button:hover, button:hover::before {
 
 @media screen and (max-width: 1000px) {
   :root {
-    --m: 2rem;
+    --m: 1rem;
   }
 }
 

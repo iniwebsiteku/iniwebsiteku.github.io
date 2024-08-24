@@ -12,11 +12,12 @@
     justify-content: center;
     padding: 1rem;
     align-items: center;
-    background-image: url(img.jpg) ;
+    background-image: url(img.jpg);
+    background-size: cover;
  }
 
  .card-container {
-    background-color: rgba(0, 0, 0, 0.533);
+    background-color: rgba(0, 0, 0, 0.533); 
     color: rgb(255, 254, 254);
     padding: 2rem;
     width: auto;
